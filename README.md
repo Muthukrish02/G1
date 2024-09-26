@@ -61,12 +61,16 @@ Future Enhancements
     Improve the graphics for more immersive gameplay.
 
     
-# Circuit Diagram
+ Circuit Diagram
+
+ 
     ![11](https://github.com/user-attachments/assets/b5b6c773-b7b6-4722-9faa-2810edc96bc4)
 
 
     
-# Output
+ Output
+
+ 
     ![IMG_20240916_144253](https://github.com/user-attachments/assets/77b8e877-633a-4729-a118-62c3bb9fbbd0)
     ![Uploading IMG_20240916_144244.jpg…]()
 License
