@@ -1,4 +1,4 @@
-# OLED Dino Game on ESP8266
+![IMG_20240916_144244](https://github.com/user-attachments/assets/0769f82a-97f2-4953-b183-527784a010b5)# OLED Dino Game on ESP8266
 
 A simple dinosaur-themed game inspired by the classic Chrome Dino game, built for a 0.96-inch OLED display and powered by an ESP8266. In this game, a dinosaur jumps over obstacles while the player's score increases. The game difficulty increases as the player progresses, and high scores are saved using EEPROM.
 Features
@@ -69,11 +69,12 @@ Future Enhancements
 
     
  Output
-
- 
     ![IMG_20240916_144253](https://github.com/user-attachments/assets/77b8e877-633a-4729-a118-62c3bb9fbbd0)
-    ![Uploading IMG_20240916_144244.jpg…]()
+   ![Uploading IMG_20240916_144244.jpg…]()
+    
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
 
