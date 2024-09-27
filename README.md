@@ -64,7 +64,7 @@ Future Enhancements
  Circuit Diagram
 
  
-    ![11](https://github.com/user-attachments/assets/b5b6c773-b7b6-4722-9faa-2810edc96bc4)
+  ![11](https://github.com/user-attachments/assets/b5b6c773-b7b6-4722-9faa-2810edc96bc4)
 
 
     
